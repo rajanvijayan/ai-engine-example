@@ -1,0 +1,3 @@
+# AI Engine
+
+The **AI Engine** is a PHP package designed for seamless integration with the Gemini AI Engine, allowing developers to generate content through simple API calls. With an intuitive interface, this package simplifies the process of sending prompts and receiving AI-generated responses, making it ideal for applications that require dynamic content creation. Easily extendable and customizable, the AI Engine empowers developers to harness the capabilities of advanced AI in their PHP projects.
