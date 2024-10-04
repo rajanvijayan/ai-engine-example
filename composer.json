@@ -1,7 +1,6 @@
 {
-    "name": "rajanvijayan/ai-engine",
+    "name": "rajanvijayan/ai-engine-example",
     "description": "A PHP package to interact with the Gemini AI Engine for generating content.",
-    "type": "library",
     "license": "MIT",
     "authors": [
       {
@@ -10,7 +9,8 @@
       }
     ],
     "require": {
-      "php": ">=7.4"
+      "php": ">=7.4",
+      "rajanvijayan/ai-engine": "dev-main"
     },
     "autoload": {
       "psr-4": {
